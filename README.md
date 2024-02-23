@@ -19,9 +19,9 @@ Firebase Login App is a simple login application developed using Flutter. User r
 
 Clone the project files to your computer:
 
-```bash
+
 git clone https://github.com/your-username/firebase-login-app.git
-bash```
+
 cd firebase-login-app
 flutter pub get
 
